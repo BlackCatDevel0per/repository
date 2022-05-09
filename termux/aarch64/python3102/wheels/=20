@@ -1,0 +1,17 @@
+Collecting hypothesis
+  Downloading hypothesis-6.46.2-py3-none-any.whl (383 kB)
+     ━━━━━━━━━━━━━━━━━━━━━ 383.1/383.1 KB 375.6 kB/s eta 0:00:00
+Collecting packaging
+  Downloading packaging-21.3-py3-none-any.whl (40 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━ 40.8/40.8 KB 342.5 kB/s eta 0:00:00
+Collecting sortedcontainers<3.0.0,>=2.1.0
+  Downloading sortedcontainers-2.4.0-py2.py3-none-any.whl (29 kB)
+Collecting attrs>=19.2.0
+  File was already downloaded /storage/emulated/0/repository/termux/aarch64/python3102/wheels/attrs-21.4.0-py2.py3-none-any.whl
+Collecting pyparsing!=3.0.5,>=2.0.2
+  Downloading pyparsing-3.0.8-py3-none-any.whl (98 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━ 98.5/98.5 KB 142.0 kB/s eta 0:00:00
+Saved ./hypothesis-6.46.2-py3-none-any.whl
+Saved ./packaging-21.3-py3-none-any.whl
+Saved ./pyparsing-3.0.8-py3-none-any.whl
+Saved ./sortedcontainers-2.4.0-py2.py3-none-any.whl
